@@ -84,8 +84,10 @@ and run it from there
 
 ### 🖼️ Index Page Preview
 
-[![DefectDesk Index Page](images/Index_Page.png)](https://github.com/deepakmaur/DefectDesk)
+[![DefectDesk Index Page](images/Index_page.png)](https://github.com/deepakmaur/DefectDesk)
 
+### Tables in Database
+[![DefectDesk Index Page](images/Tables.png)](https://github.com/deepakmaur/DefectDesk)
 
 
 ## 📧 Contact
