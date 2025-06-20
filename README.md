@@ -90,7 +90,7 @@ and run it from there
 [![DefectDesk Index Page](images/Tables.png)](https://github.com/deepakmaur/DefectDesk)
 
 
-## 📧 Contact
+Deployed :- https://defectdesk.infinityfreeapp.com/index.php
 
-For support or inquiries: [my-email@example.com](mailto:thums9up@gmail.com)
+mail() is not worrking there because mail() is often disabled.
 
