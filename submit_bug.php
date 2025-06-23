@@ -4,7 +4,7 @@ require 'includes/functions.php';
 session_start();
 
 // Redirect if not logged in
-if (!isset($_SESSION['username'])) {
+if (!isset($_SESSION['username']) || $_SESSION['role'] !== 'user') {
     header("Location: login.php");
     exit();
 }
